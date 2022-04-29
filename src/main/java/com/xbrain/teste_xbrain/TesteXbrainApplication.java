@@ -1,4 +1,4 @@
-package com.xbrain.testexbrain;
+package com.xbrain.teste_xbrain;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

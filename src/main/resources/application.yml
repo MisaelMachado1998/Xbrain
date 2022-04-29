@@ -5,6 +5,10 @@ spring:
     password: test
     driverClassName: org.h2.Driver
 
+  rabbitmq:
+    addresses: amqps://uuxatqwn:uW9ZLL9SXRAeuseEAZwUEagzdwWfaR3o@gull.rmq.cloudamqp.com/uuxatqwn
+    queue: ms-pedido
+
   jpa:
     database-platform: org.hibernate.dialect.H2Dialect
     properties.hibernate.show_sql: true
